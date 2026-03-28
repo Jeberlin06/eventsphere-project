@@ -1,8 +1,7 @@
 # EventSphere – Event Booking Web Application
 
 ## 🔗 Live Demo
-https://your-netlify-link.netlify.app
-
+https://eventsphere-event.netlify.app/
 ## 📌 Features
 - Event filtering and search
 - Ticket booking system
